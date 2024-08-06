@@ -2,10 +2,10 @@
 ### *_me chamo Pedro_*
 ### *_me interesso em violão_*
 ### *_quero aprender anatomia_*
+### *_meu livro preferido é nossa historia_*
+### *_eu amo cbjr_*
+### *_minha materia preferida é historia_*
 ### *_
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Hlc0048/Hlc0048 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
